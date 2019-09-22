@@ -1,0 +1,2 @@
+Dog.new
+puts bark
